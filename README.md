@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./architecture/diagram_arch.png" width="500" alt="Nest Logo" /></a>
+  <img src="./architecture/diagram_arch.png" width="800" alt="Arquitetura" /></a>
 </p>
 
 
